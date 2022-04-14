@@ -1,2 +1,2 @@
 # game-dinossaur
-Criei um jogo space shooter usando os conhecimentos de HTML, CSS, Javascript. 
+Criei um jogo do dinossauro usando os conhecimentos de HTML, CSS, Javascript. 
